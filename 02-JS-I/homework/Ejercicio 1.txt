@@ -1,0 +1,11 @@
+VARIABLE = Es una forma de almacenar información para luego poder usarla.
+    Es una "caja" en la que puede guardarse datos de un determinado tipo (texto, número, etc).
+STRINGS = Son un tipo posible de datos que se puede usar o almacenarse en una variable.
+    Es una secuencia de caracteres encerrados entre comillas simples o dobles.
+FUNCIONES = son una forma de agrupar código para poder ser usado sin tener que reescribirlo.
+    Pueden recibir información (parámetros) o devolver lo que queramos (return).
+    Si no definimos valores de retorno (return) la función devuelve "undefined" pero siempre devuelve algo.
+IF = es un operador que permite cambiar el orden (flujo) en que se ejecutan las órdenes (instrucciones).
+    Se evalúan una o más condiciones y solo si el resultado es verdadero se ejecutan las instrucciones que contiene ese operador.
+VALORES BOOLEANOS = Es uno de los posibles tipos de datos a usar o almacenar en una variable.
+    Son sólo dos valores posibles: verdadero (true) o falso (false).
