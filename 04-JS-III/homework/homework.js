@@ -205,7 +205,7 @@ function mesesDelAño(array) {
   var resultado = [];
   for (let i=0; i<array.length; i++){
     if (array[i]=='Enero' || array[i]==='Marzo' || array[i]===`Noviembre`){
-      resultado.push(array[i];)
+      resultado.push(array[i]);
     }
   }
   if (resultado.length < 3){
@@ -221,7 +221,7 @@ function mayorACien(array) {
   //valores mayores a 100 (no incluye el 100). Finalmente devolver el nuevo array.
   // Tu código:
   var resultado=[];
-  for (let i=0; i<array.lenght; i++){
+  for (let i=0; i<array.length; i++){
     if (array[i] > 100){
       resultado.push(array[i]);
     }
@@ -239,7 +239,7 @@ function breakStatement(numero) {
   //Pista: usá el statement 'break'
   // Tu código:
   var resultado=[];
-  for (let i=0; i<10; i++){
+  for (var i=0; i<10; i++){
     numero += 2;
     if (numero === i)break;
     resultado. push(numero);
