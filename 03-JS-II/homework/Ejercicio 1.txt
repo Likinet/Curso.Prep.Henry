@@ -1,0 +1,11 @@
+for = Es un bucle que permite la repetición de las instrucciones que encierra una cierta cantidad de veces, 
+    mientras la condición asignada se cumple.
+
+
+&& = Es un operador lógico que evalúa dos o más expresiones y devuelve verdadero solo si ambas expresiones lo son.
+    Sino devuelve falso.
+
+|| = Es un operador lógico que evalúa dos o más expresiones y devuelve falso solo si ambas expresiones lo son.
+    Sino devuelve verdadero.
+    
+! = Es un operador lógico que devuelve verdadero si la expresión a la que se aplica es falsa y falso si es verdadera.

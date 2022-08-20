@@ -1,0 +1,5 @@
+ARRAYS = Son contenedores o estructuras de datos organizados en secuencia.
+    También son llamados arreglos o matrices.
+    Cada dato ocupa una posición y puede ser accedido usando el nombre del arreglo y esa posición.
+    Las posiciones posibles empiezan siempre de cero en adelante.
+    En cada posición de estos arrays puede guardarse cualquier tipo de datos.
