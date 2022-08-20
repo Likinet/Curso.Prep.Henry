@@ -1,0 +1,18 @@
+Los OBJETOS son estructuras de datos, una forma de organizar información.
+    A diferencia de los arreglos se adaptan mejor para organizar toda la información necesaria para describir
+    objetos de nuestra realidad. 
+    Cada definición de objeto tiene un nombre de objeto, propiedades y métodos.
+Cada PROPIEDAD en un objeto contiene un tipo de datos o un método (función) y puede accederse de dos formas diferentes.
+    1- Con dot notation: se escribe el nombre del objeto seguido por punto y el nombre de la propiedad a la que queremos acceder.
+    2- Con bracket notation: se escribe el nombre del objeto seguido por corchetes entre los cuales se escribe el nombre de la
+        propiedad a ser accedida o una expresión que de como resultado el nombre de una de las propiedades.
+Los METODOS son funciones (pedazos de código) definidos dentro de un objeto y que pueden ejecutarse de la misma forma que se accede
+    a las propiedades añadiendo () -llamada a función- con los argumentos si los tuviera.
+
+Un BUCLE FOR...IN, al igual que el FOR, WHILE, IF/ELSE IF/ELSE, DO WHILE, es una instrucción (statement) que permite recorrer
+    cada propiedad de un objeto. Recordemos que el FOR "tradicional" utiliza un índice numérico con ql que por ejemplo
+    puede recorrerse un arreglo de datos, pero en el caso de los objetos los elementos son accedidos a través de las propiedades
+    que son cadenas (strings).
+Notación de puntos vs notación de corchetes: la brackets notation tiene como ventaja la posibilidad de poner como índice 
+    (entre corchetes) no sólo el nombre de una propiedad sino cualquier expresión que al ser evaluada devuevla una de las propiedades
+    del objeto en cuestión.
