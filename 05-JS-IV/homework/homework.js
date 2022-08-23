@@ -78,8 +78,13 @@ function tieneEmail(usuario) {
         return false;
       }
     }
-  };
+  }
   return false;
+  //if (usuario.mail){
+  // return true;
+  //}
+  //return false;
+  //}
 }
 
 
@@ -95,6 +100,8 @@ function tienePropiedad(objeto, propiedad) {
     }
   };
   return false;
+  // return objeto.hasOwnProperty(propiedad);
+  //}
 }
 
 function verificarPassword(usuario, password) {
