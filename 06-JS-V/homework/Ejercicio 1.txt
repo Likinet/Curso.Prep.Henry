@@ -1,0 +1,9 @@
+Prototype = Se utiliza cuando trabajamos con objetos.
+    Es una forma de definir procedimientos (métodos) que evita repetir código porque estos se definen una única vez y le da a todos
+    los objetos creados acceso a esos métodos sin necesidad de que cada objeto lo tenga en su definición.
+    Como en la vida real un prototipo es un modelo, prototype en JS se aplica como una forma de modelar el comportamiento de los objetos
+    ahorrando código y recursos.
+Constructors = En nuestra vida diaria convivimos con objetos y esos objetos poseen propiedades y funcionalidades.
+    En programación, muchas veces, buscamos representar esos objetos.
+    Los constructores son básicamente funciones que permiten la creación de objetos. Estas funciones definen las características
+    (propiedades) del objeto a crear y su comportamiento (métodos).
