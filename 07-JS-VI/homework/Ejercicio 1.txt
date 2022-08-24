@@ -1,0 +1,2 @@
+Funciones Callback = son las funciones que se pasan como argumentos de otras funciones. 
+    Se tiene como convención usar cb como argumento para la variable que se usa para pasar el combre de la función Callback.
